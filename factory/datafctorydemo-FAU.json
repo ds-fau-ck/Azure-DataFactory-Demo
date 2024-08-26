@@ -1,0 +1,9 @@
+{
+	"name": "datafctorydemo-FAU",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61792d3c-f03e-4599-99e1-efff5f05f010",
+		"tenantId": "6475e913-23c1-4cbc-92b8-e0cb4e9132ce"
+	}
+}
